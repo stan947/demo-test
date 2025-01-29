@@ -1,0 +1,6 @@
+1. Neaisku, kaip prideti uzduotis i sarasa. 
+2. Nera kaip redaguoti uzduociu.
+3. Uzduociu saraso isskleidimo zymos funkcionalumas nesuprantamas.Veikia neaiskia logika.
+4. Uzduociu, kurias liko ivykdyti kalkuliacija "items left" prasiseda nuo -1.
+5. Pasirinkus filtra "active",bandant pasizymeti konkrecia uzduoti, ji pasalinama is saraso.
+6. Funkcija "clear" trina be perspejimo.
